@@ -13,4 +13,10 @@
 - Cybersecurity Fundamentals
 
 ## Connect
-- LinkedIn: (https://www.linkedin.com/in/shyam7dx)
+<a href="https://www.linkedin.com/in/shyam7dx">
+  <img src="https://img.shields.io/badge/LinkedIn-Shyam-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://wa.me/917026104109?text=Hello👋">
+  <img src="https://img.shields.io/badge/WhatsApp-Message-green?style=for-the-badge&logo=whatsapp" />
+</a>
