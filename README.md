@@ -1,4 +1,5 @@
-# Hi, I'm Shyam 👋
+# Hi, I'm Shyam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+
 
 🔐 Cybersecurity Student
 💻 Learning Ethical Hacking & Network Security
